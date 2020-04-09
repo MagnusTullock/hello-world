@@ -1,3 +1,3 @@
 # hello-world
 learning github
-during the coronavirus quarentine 
+during the coronavirus quarantine 
